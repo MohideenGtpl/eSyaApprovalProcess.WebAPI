@@ -1,0 +1,12 @@
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.IF\bin\Release\netcoreapp2.2\HCP.ApprovalProcess.IF.deps.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.IF\bin\Release\netcoreapp2.2\HCP.ApprovalProcess.IF.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.IF\bin\Release\netcoreapp2.2\HCP.ApprovalProcess.IF.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.IF\bin\Release\netcoreapp2.2\HCP.ApprovalProcess.DO.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.IF\bin\Release\netcoreapp2.2\HCP.ApprovalProcess.DO.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.IF\obj\Release\netcoreapp2.2\HCP.ApprovalProcess.IF.csprojAssemblyReference.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.IF\obj\Release\netcoreapp2.2\HCP.ApprovalProcess.IF.csproj.CoreCompileInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.IF\obj\Release\netcoreapp2.2\HCP.ApprovalProcess.IF.AssemblyInfoInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.IF\obj\Release\netcoreapp2.2\HCP.ApprovalProcess.IF.AssemblyInfo.cs
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.IF\obj\Release\netcoreapp2.2\HCP.ApprovalProcess.IF.csproj.CopyComplete
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.IF\obj\Release\netcoreapp2.2\HCP.ApprovalProcess.IF.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.IF\obj\Release\netcoreapp2.2\HCP.ApprovalProcess.IF.pdb

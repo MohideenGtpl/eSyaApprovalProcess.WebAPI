@@ -1,0 +1,9 @@
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DO\bin\Debug\netcoreapp2.2\eSyaApprovalProcess.DO.deps.json
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DO\bin\Debug\netcoreapp2.2\eSyaApprovalProcess.DO.dll
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DO\bin\Debug\netcoreapp2.2\eSyaApprovalProcess.DO.pdb
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DO\obj\Debug\netcoreapp2.2\eSyaApprovalProcess.DO.csprojAssemblyReference.cache
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DO\obj\Debug\netcoreapp2.2\eSyaApprovalProcess.DO.csproj.CoreCompileInputs.cache
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DO\obj\Debug\netcoreapp2.2\eSyaApprovalProcess.DO.AssemblyInfoInputs.cache
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DO\obj\Debug\netcoreapp2.2\eSyaApprovalProcess.DO.AssemblyInfo.cs
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DO\obj\Debug\netcoreapp2.2\eSyaApprovalProcess.DO.dll
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DO\obj\Debug\netcoreapp2.2\eSyaApprovalProcess.DO.pdb

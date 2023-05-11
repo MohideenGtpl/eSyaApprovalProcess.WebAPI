@@ -1,0 +1,16 @@
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.DL\bin\Release\netcoreapp2.2\HCP.ApprovalProcess.DL.deps.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.DL\bin\Release\netcoreapp2.2\HCP.ApprovalProcess.DL.runtimeconfig.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.DL\bin\Release\netcoreapp2.2\HCP.ApprovalProcess.DL.runtimeconfig.dev.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.DL\bin\Release\netcoreapp2.2\HCP.ApprovalProcess.DL.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.DL\bin\Release\netcoreapp2.2\HCP.ApprovalProcess.DL.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.DL\bin\Release\netcoreapp2.2\HCP.ApprovalProcess.DO.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.DL\bin\Release\netcoreapp2.2\HCP.ApprovalProcess.IF.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.DL\bin\Release\netcoreapp2.2\HCP.ApprovalProcess.DO.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.DL\bin\Release\netcoreapp2.2\HCP.ApprovalProcess.IF.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.DL\obj\Release\netcoreapp2.2\HCP.ApprovalProcess.DL.csprojAssemblyReference.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.DL\obj\Release\netcoreapp2.2\HCP.ApprovalProcess.DL.csproj.CoreCompileInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.DL\obj\Release\netcoreapp2.2\HCP.ApprovalProcess.DL.AssemblyInfoInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.DL\obj\Release\netcoreapp2.2\HCP.ApprovalProcess.DL.AssemblyInfo.cs
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.DL\obj\Release\netcoreapp2.2\HCP.ApprovalProcess.DL.csproj.CopyComplete
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.DL\obj\Release\netcoreapp2.2\HCP.ApprovalProcess.DL.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaApprovalProcess.WebAPI\trunk\eSyaApprovalProcess.DL\obj\Release\netcoreapp2.2\HCP.ApprovalProcess.DL.pdb

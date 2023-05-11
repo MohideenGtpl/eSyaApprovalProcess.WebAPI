@@ -1,0 +1,16 @@
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DL\bin\Debug\netcoreapp2.2\HCP.ApprovalProcess.DL.deps.json
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DL\bin\Debug\netcoreapp2.2\HCP.ApprovalProcess.DL.runtimeconfig.json
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DL\bin\Debug\netcoreapp2.2\HCP.ApprovalProcess.DL.runtimeconfig.dev.json
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DL\bin\Debug\netcoreapp2.2\HCP.ApprovalProcess.DL.dll
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DL\bin\Debug\netcoreapp2.2\HCP.ApprovalProcess.DL.pdb
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DL\bin\Debug\netcoreapp2.2\HCP.ApprovalProcess.DO.dll
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DL\bin\Debug\netcoreapp2.2\HCP.ApprovalProcess.IF.dll
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DL\bin\Debug\netcoreapp2.2\HCP.ApprovalProcess.DO.pdb
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DL\bin\Debug\netcoreapp2.2\HCP.ApprovalProcess.IF.pdb
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DL\obj\Debug\netcoreapp2.2\HCP.ApprovalProcess.DL.csprojAssemblyReference.cache
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DL\obj\Debug\netcoreapp2.2\HCP.ApprovalProcess.DL.csproj.CoreCompileInputs.cache
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DL\obj\Debug\netcoreapp2.2\HCP.ApprovalProcess.DL.AssemblyInfoInputs.cache
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DL\obj\Debug\netcoreapp2.2\HCP.ApprovalProcess.DL.AssemblyInfo.cs
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DL\obj\Debug\netcoreapp2.2\HCP.ApprovalProcess.DL.csproj.CopyComplete
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DL\obj\Debug\netcoreapp2.2\HCP.ApprovalProcess.DL.dll
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaApprovalProcess.WebAPI\eSyaApprovalProcess.DL\obj\Debug\netcoreapp2.2\HCP.ApprovalProcess.DL.pdb
